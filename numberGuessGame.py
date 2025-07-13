@@ -1,6 +1,8 @@
 import random
 # number guessing game
 
+# this is a test comment
+
 # Create a function to introduce the game
 # and explain the rules to the player
 def intro():
